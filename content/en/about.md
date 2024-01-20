@@ -2,7 +2,7 @@
 title: About
 description: 'About the Docus Starter'
 category: 'More'
-position: 2
+position: 99
 ---
 
 Documentation is done using Markdown files inside the `content/` directory.

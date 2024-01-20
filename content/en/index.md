@@ -2,7 +2,7 @@
 title: Introduction
 description: 'Introducing my awesome documentation'
 category: 'Getting started'
-position: 1
+position: 98
 features:
   - Write in Markdown
   - Use Vue components
