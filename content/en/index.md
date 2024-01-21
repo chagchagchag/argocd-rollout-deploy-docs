@@ -1,8 +1,14 @@
 ---
 title: Introduction
-description: 'Introduce'
+description: 'Introducing my awesome documentation'
 category: 'Getting started'
 position: 98
+features:
+  - Write in Markdown
+  - Use Vue components
+  - Designed with TailwindCSS
+  - Light and Dark mode
+  - Deploy
 ---
 
 <alert type="success">
