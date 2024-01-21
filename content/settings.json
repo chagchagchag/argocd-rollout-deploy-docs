@@ -1,5 +1,5 @@
 {
-  "title": "ArgoCD Rollout Example",
+  "title": "Blue/Green, Canary with ArgoCD, Argo Rollouts",
   "url": "https://abc-docus-starter.vercel.app",
   "github": "chagchagchag/argocd-rollout-deploy-docs",
   "twitter": "-"
