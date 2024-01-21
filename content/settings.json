@@ -1,5 +1,5 @@
 {
-  "title": "Blue/Green, Canary with ArgoCD, Argo Rollouts",
+  "title": "Blue Green, Canary 무중단 배포 (with ArgoCd, Argo Rollouts)",
   "url": "https://abc-docus-starter.vercel.app",
   "github": "chagchagchag/argocd-rollout-deploy-docs",
   "twitter": "-"
